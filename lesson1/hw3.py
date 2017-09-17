@@ -1,4 +1,4 @@
-ANSWERS = {"привет": "И тебе привет!", "как дела": "Лучше всех"}
+ANSWERS = {"привет": "И тебе привет!", "как дела": "Лучше всех", "пока": "Удачи!"}
 
 def get_answer(question):
     return ANSWERS.get(question)
