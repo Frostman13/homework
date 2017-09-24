@@ -1,3 +1,6 @@
 env/
 lesson2/test*
 lesson2/answers.csv
+lesson3/__pycache__/
+lesson3/settings.py
+code_samples.py
